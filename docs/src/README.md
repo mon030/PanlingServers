@@ -1,7 +1,7 @@
 ---
 home: true
 icon: solar:home-2-bold-duotone
-title: 服务器DLC
+title: 服务器列表
 heroImage: /logo.svg
 heroText: 盘灵古域WIKI
 tagline: 公开服务器列表
