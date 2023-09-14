@@ -10,10 +10,10 @@ actions:
     link: other/join/
     type: primary
 features:
-  - title: 服务器名称
+  - title: 服务器例子
     icon: solar:server-bold-duotone
-    details: 服务器介绍。
-    link: /server-name/
+    details: 栗子服务器介绍文本。
+    link: /example/
 
   
 copyright: false
