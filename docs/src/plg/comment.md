@@ -1,5 +1,5 @@
 ---
-title: 栗子服务器-服务器评价
+title: 盘龙阁-服务器评价
 index: false
 icon: ant-design:comment-outlined
 category:
