@@ -1,10 +1,10 @@
 ---
-title: 盘龙阁-盘灵古域服务器-服务器评价
+title: KPL盘灵古域服务器-服务器评价
 index: false
 icon: ant-design:comment-outlined
 category:
   - 服务器评价
-  - 盘龙阁-盘灵古域
+  - KPL盘灵古域
 
 ---
 

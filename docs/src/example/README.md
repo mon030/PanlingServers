@@ -1,7 +1,7 @@
 ---
 home: true
 icon: solar:home-2-bold-duotone
-title: 服务器列表
+title: 栗子服务器
 heroImage: "https://img03.mifile.cn/v1/MI_542ED8B1722DC/1a5083225dac1c274752469003a006bc.jpg"
 heroText: 栗子服务器
 tagline: 这是一个栗子服务器的短介绍
