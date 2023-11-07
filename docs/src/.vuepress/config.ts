@@ -27,6 +27,7 @@ export default defineUserConfig({
   theme,
 
   plugins: [
+  
        googleAnalyticsPlugin({
       id: 'G-EFWFD2M8G0',
     }),
@@ -51,5 +52,5 @@ searchProPlugin({
 
 
   // Enable it with pwa
-  // shouldPrefetch: false,
+   shouldPrefetch: false,
 });
