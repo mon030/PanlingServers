@@ -58,8 +58,8 @@ export default hopeTheme({
 
       // page meta
       metaLocales: {
-        editLink: false,
-        
+     editLink: "Edit this page",
+
       },
     },
   },
