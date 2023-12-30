@@ -7,7 +7,7 @@ heroText: 栗子服务器
 tagline: 这是一个栗子服务器的短介绍
 actions:
   - text: 🔗servers.panling.link
-    link: "servers.panling.link"
+    link: "/example/nwtc/"
     type: normal
   - text: 加入玩家社群
     link: "https://t.me/PanlingGuide"
