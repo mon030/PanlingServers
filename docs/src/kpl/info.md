@@ -12,7 +12,13 @@ category:
 
 服务器目前状态: 正常运营
 
-IP/域名: 需入群查看
+IP/域名: 
+
+[1.20.1]mc.miku.fit:25570
+
+1.8服务器需入群查看
+
+
 
 服务器社群: QQ群 762091547
 
@@ -24,10 +30,18 @@ IP/域名: 需入群查看
 
 
 
-Minecraft游戏版本: 1.8
+Minecraft游戏版本: 1.8/1.20.1
 
-地图类型: 原版盘灵古域+服务器扩展内容
+地图类型: 
 
-盘灵古域地图&数据包版本: 盘灵古域原版地图1.2.3
+[1.8]原版盘灵古域+服务器扩展内容
 
-> <center>服务器状态信息不可用</center>
+[1.20.1]盘灵古域+梦回盘灵数据包+服务器扩展内容(DLC) 
+
+盘灵古域地图&数据包版本: 
+
+[1.8]盘灵古域原版地图1.2.3
+
+[1.20.1]数据包1.0.3
+
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.miku.fit:25570/embed" width="728" height="90"></iframe>

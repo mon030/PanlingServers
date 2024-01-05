@@ -4,9 +4,9 @@ icon: solar:home-2-bold-duotone
 title: KPL盘灵古域
 heroImage: /logo.svg
 heroText: KPL盘灵古域
-tagline: 2020年4月开服，资历较老，1.8服务器
+tagline: 2020年4月开服，资历较老，开设有1.8版本服务器与1.20.1高版本服务器
 actions:
-  - text: 🔗IP需入群查看
+  - text: 🔗mc.miku.fit:25570(高版本)
     link: "/kpl/info/"
     type: normal
   - text: 玩家QQ社群:762091547
@@ -26,6 +26,11 @@ features:
     icon: ant-design:comment-outlined
     details: 服务器评价
     link: /kpl/comment/
+
+  - title: KPL高版本服
+    icon: mdi:minecraft
+    details: KPL高版本服现已开启。
+    link: /kpl/info/
   
 copyright: false
 footer: <p xmlns:cc="http://creativecommons.org/ns#" >We are licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p><br />网站所涉及的公司名称、商标、产品等均为其各自所有者的资产，仅供识别。涉及游戏内的剧情文本为MayorTW & 紅石口袋所有。<br />"Minecraft"以及"我的世界"为美国微软公司的商标 本站与微软公司没有从属关系。| © 2015 - 2023 3ON EM
