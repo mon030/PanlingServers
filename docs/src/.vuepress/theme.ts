@@ -89,14 +89,12 @@ export default hopeTheme({
       },
       
     comment: {
-      provider: "Waline",
-        serverURL: 'https://c.3onem.eu.org',
-        recaptchaV3Key: '6LcdIwoiAAAAAMQbdZ_wH5PVBeIwJPYbTCuOVaxM',
+        provider: "Waline",
+        serverURL: "https://c.3onem.eu.org",
+        recaptchaV3Key: "6LcdIwoiAAAAAMQbdZ_wH5PVBeIwJPYbTCuOVaxM",
         pageview: true,
         reaction: true,
-        login: "force",
     },
-    
 
 
 
