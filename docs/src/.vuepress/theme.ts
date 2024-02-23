@@ -27,7 +27,6 @@ export default hopeTheme({
   locales: {
     "/": {
       // navbar
-      lang: "zh-CN",
       navbar: zhNavbar,
 
       // sidebar
@@ -48,14 +47,13 @@ export default hopeTheme({
      * Traditional Chinese locale config
      */
     "/zh-TW/": {
-      lang: "zh-TW",
       // navbar
       navbar: enNavbar,
 
       // sidebar
       sidebar: enSidebar,
 
-      footer: "3ON EM",
+      footer: "1",
       displayFooter: true,
 
       // page meta
@@ -75,24 +73,20 @@ export default hopeTheme({
 
   plugins: {
   
-    components: {
-      // 你想使用的组件
-      components: [
-        "VidStack",
-        "AudioPlayer",
-        "Badge",
-        "BiliBili",
-        "CodePen",
-        "PDF",
-        "Replit",
-        "StackBlitz",
-        "VPCard",
-        "VPBanner",
-    "SiteInfo",
-
-        
-      ],
-    },
+       components: {
+        // 你想使用的组件
+        components: [
+          "AudioPlayer",
+          "Badge",
+          "BiliBili",
+          "CodePen",
+          "PDF",
+          "Replit",
+          "StackBlitz",
+          "VideoPlayer",
+          "YouTube",
+        ],
+      },
       
     comment: {
      provider: "Waline",
@@ -130,12 +124,14 @@ export default hopeTheme({
       include: true,
       katex: true,
       mark: true,
-      VPCard: true,
+      card: true,
       mermaid: true,
       playground: {
         presets: ["ts", "vue"],
       },
-      revealJs: true,
+      presentation: {
+        plugins: ["highlight", "math", "search", "notes", "zoom"],
+      },
       stylize: [
         {
           matcher: "Recommended",
@@ -155,6 +151,7 @@ export default hopeTheme({
       vPre: true,
       vuePlayground: true,
     },
+
 
      pwa: {
        favicon: "/favicon.ico",

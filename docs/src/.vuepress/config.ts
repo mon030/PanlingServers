@@ -26,7 +26,6 @@ export default defineUserConfig({
   },
 
   theme,
-  pagePatterns: ["**/*.md", "!**/*.snippet.md", "!.vuepress", "!node_modules"],
 
   plugins: [
   
@@ -34,7 +33,10 @@ export default defineUserConfig({
       id: 'G-EFWFD2M8G0',
     }),
     
- 
+    		googleAdSensePlugin({
+      id: "ca-pub-2860229584748328",
+    }),
+    
 searchProPlugin({
       // 索引全部内容
       indexContent: true,
