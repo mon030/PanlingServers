@@ -24,7 +24,7 @@ IP/域名: lanke.panling.link
 
 
 
-Minecraft游戏版本: 1.20.1
+Minecraft游戏版本: 1.20.2
 
 
 
