@@ -26,6 +26,11 @@ features:
     details: 一款高度魔改的高版本盘灵古域服务器。
     link: /zyg/
 
+  - title: 服务器联合黑名单
+    icon: solar:server-bold-duotone
+    details: 联合黑名单。
+    link: /other/blacklist/
+
   - title: 服务器例子
     icon: solar:server-bold-duotone
     details: 栗子服务器介绍文本。
