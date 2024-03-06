@@ -14,7 +14,7 @@ actions:
 features:
   - title: 服务器攻略
     icon: solar:documents-bold-duotone
-    details: 查看云阳九歌服务器游玩攻略。
+    details: 查看新新向荣顾菇谷服务器游玩攻略。
     link: /mxf/guide/
 
   - title: 服务器规则
