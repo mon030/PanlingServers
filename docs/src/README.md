@@ -27,7 +27,7 @@ features:
     link: /zyg/
 
   - title: 服务器联合黑名单
-    icon: solar:server-bold-duotone
+    icon: solar:user-block-bold-duotone
     details: 联合黑名单。
     link: /other/blacklist/
 
