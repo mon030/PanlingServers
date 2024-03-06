@@ -30,6 +30,7 @@ features:
     icon: solar:server-bold-duotone
     details: 让每个想玩盘灵的新人都能有一个可以和朋友一起玩盘灵的服务器。
     link: /mxf/
+
   - title: 服务器联合黑名单
     icon: solar:user-block-bold-duotone
     details: 我们联合!
