@@ -13,6 +13,9 @@ category:
 
 ::: tip
 [请填写此表单来完成白名单申请](https://forms.office.com/r/87e35XZMjh)
+
+[白名单审核结果公示](https://alpineshine-my.sharepoint.com/:x:/g/personal/farzi_uper3_vikacg_com/EacwEg8tbxlNv1GuHpfgaT4BIJ7fxhEJJ1YW3i6XFEvYPA?e=Wv10hw)
+
 :::
 
 ### 服务器白名单申请为积分制
