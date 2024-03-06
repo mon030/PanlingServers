@@ -10,7 +10,7 @@ category:
 
 ::: info 提示
 
-你可以在此查看可[复制的黑名单列表](./other/blacklist/banlist)
+你可以在此查看可[复制的黑名单列表](./banlist)
 
 如需申诉请联系给予你处罚的管理员
 
