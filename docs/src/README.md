@@ -18,7 +18,7 @@ features:
 
   - title: KPL盘灵古域
     icon: solar:server-bold-duotone
-    details: 2020年4月开服，资历较老，1.8服务器。
+    details: 2020年4月开服，资历较老，现开设1.8与1.20.1两个服务器。
     link: /kpl/
 
   - title: 云阳九歌
