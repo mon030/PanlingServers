@@ -4,7 +4,7 @@ icon: solar:home-2-bold-duotone
 title: 轮回间章
 heroImage: /logo.svg
 heroText: 轮回间章
-tagline: 让每个想玩盘灵的新人都能有一个可以和朋友一起玩盘灵的服务器。
+tagline: 全新服，注重玩家操作带来的提升，不推荐萌新游玩。
 actions:
   - text: 🔗dragonrster.cn:17893
     link: "/轮回间章/info/"

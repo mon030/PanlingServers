@@ -4,7 +4,7 @@ icon: solar:home-2-bold-duotone
 title: 盘灵古域1.8.8复古
 heroImage: /logo.svg
 heroText: 盘灵古域1.8.8复古
-tagline: 让每个想玩盘灵的新人都能有一个可以和朋友一起玩盘灵的服务器。
+tagline: 复古，公益，腐竹陪玩。
 actions:
   - text: 🔗qin.panling.link
     link: "/PL1.8/info/"
