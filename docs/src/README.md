@@ -31,6 +31,21 @@ features:
     details: 让每个想玩盘灵的新人都能有一个可以和朋友一起玩盘灵的服务器。
     link: /mxf/
 
+  - title: 盘灵古域1.8.8复古
+    icon: solar:server-bold-duotone
+    details: 复古，公益，腐竹陪玩。
+    link: /PL1.8/
+
+  - title: 轮回间章
+    icon: solar:server-bold-duotone
+    details: 全新服，注重玩家操作带来的提升，不推荐萌新游玩。
+    link: /轮回间章/
+
+  - title: 盘古灵域服务器
+    icon: solar:server-bold-duotone
+    details: 提供给想联机但不会操作的玩家，可以和朋友一起来玩哦。
+    link: /盘古rpg/
+
   - title: 服务器联合黑名单
     icon: solar:user-block-bold-duotone
     details: 我们联合!
