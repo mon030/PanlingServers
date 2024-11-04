@@ -1,9 +1,9 @@
 ---
 home: true
 icon: solar:home-2-bold-duotone
-title: 新新向荣顾菇谷
-heroImage: /logo.svg
-heroText: 新新向荣顾菇谷
+title: TCB
+heroImage: "https://s2.loli.net/2024/10/29/HBW6K8EqGo5ZMYz.png"
+heroText: TCB
 tagline: 让每个想玩盘灵的新人都能有一个可以和朋友一起玩盘灵的服务器。
 actions:
   - text: 🔗dragonrster.cn:17893
@@ -14,7 +14,7 @@ actions:
 features:
   - title: 服务器攻略
     icon: solar:documents-bold-duotone
-    details: 查看新新向荣顾菇谷服务器游玩攻略。
+    details: 查看TCB服务器游玩攻略。
     link: /mxf/guide/
 
   - title: 服务器规则
@@ -33,7 +33,7 @@ footer: <p xmlns:cc="http://creativecommons.org/ns#" >We are licensed under <a h
 
 
 
-# 新新向荣顾菇谷
+# TCB
 
 本服供盘灵新人多人一起游玩
 以通过剧情真盘古元神之战为一周目的结束

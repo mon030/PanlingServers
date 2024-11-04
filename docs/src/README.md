@@ -46,6 +46,11 @@ features:
     details: 提供给想联机但不会操作的玩家，可以和朋友一起来玩哦。
     link: /盘古rpg/
 
+  - title: TCB
+    icon: solar:server-bold-duotone
+    details: 我们承诺以玩家为中心，开拓多元玩法，一心为玩家服务
+    link: /TCB/
+
   - title: 服务器联合黑名单
     icon: solar:user-block-bold-duotone
     details: 我们联合!
