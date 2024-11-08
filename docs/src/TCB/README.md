@@ -4,7 +4,7 @@ icon: solar:home-2-bold-duotone
 title: TCB
 heroImage: "https://s2.loli.net/2024/10/29/HBW6K8EqGo5ZMYz.png"
 heroText: TCB
-tagline: 让每个想玩盘灵的新人都能有一个可以和朋友一起玩盘灵的服务器。
+tagline: 我们承诺以玩家为中心，开拓多元玩法，一心为玩家服务
 actions:
   - text: 🔗dragonrster.cn:17893
     link: "/mxf/info/"
