@@ -1,10 +1,13 @@
-import { defineUserConfig } from 'vuepress'
-import { viteBundler } from '@vuepress/bundler-vite'
-import theme from "./theme.js"
-import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
-import googleAdSensePlugin from 'vuepress-plugin-google-adsense2'
-import { searchProPlugin } from "vuepress-plugin-search-pro"
+import { defineUserConfig } from 'vuepress';
+import { viteBundler } from '@vuepress/bundler-vite';
+import theme from "./theme.js";
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
+import googleAdSensePlugin from 'vuepress-plugin-google-adsense2';
+import { searchProPlugin } from "vuepress-plugin-search-pro";
 
+
+
+import theme from './theme.js';
 export default defineUserConfig({
   base: "/",
   bundler: viteBundler(),
