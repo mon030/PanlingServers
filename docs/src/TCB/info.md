@@ -1,14 +1,14 @@
 ---
-title: 新新向荣顾菇谷-服务器信息
+title: TCB-服务器信息
 index: false
 icon: solar:info-circle-broken
 comment: false
 category:
   - 服务器信息
-  - 新新向荣顾菇谷
+  - TCB
 ---
 
- 服务器名称:新新向荣顾菇谷
+ 服务器名称:TCB
 
 服务器目前状态: 正常运营
 
@@ -30,4 +30,4 @@ Minecraft游戏版本: 1.20.1
 
 盘灵古域地图&数据包版本: 梦回盘灵数据包1.10b
 
-<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/dragonrster.cn:17893/embed" width="728" height="90"></iframe>
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/yuehua.panling.link/embed" width="728" height="90"></iframe>

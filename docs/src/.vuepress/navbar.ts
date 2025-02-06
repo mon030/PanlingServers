@@ -3,7 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   "/other/join",
-  "/other/blacklist/",
+  "/other/blacklist/portfolio",
 
   {
     text: "返回主站",

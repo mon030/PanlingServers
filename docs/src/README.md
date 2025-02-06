@@ -7,7 +7,7 @@ heroText: 盘灵古域WIKI
 tagline: 公开服务器列表
 actions:
   - text: 服务器入驻
-    link: other/join/
+    link: other/join
     type: primary
 features:
 
@@ -46,10 +46,10 @@ features:
     details: 提供给想联机但不会操作的玩家，可以和朋友一起来玩哦。
     link: /盘古rpg/
 
-  - title: TCB
+  - title: 月华
     icon: solar:server-bold-duotone
-    details: 我们承诺以玩家为中心，开拓多元玩法，一心为玩家服务
-    link: /TCB/
+    details: 除剧情外所有内容皆DLC，新的技能，装备，玩法，副本
+    link: /yuehua/
 
   - title: 服务器联合黑名单
     icon: solar:user-block-bold-duotone
