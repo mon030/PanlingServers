@@ -1,20 +1,36 @@
 ---
-title: 服务器联合黑名单
+title: 名人堂
 index: true
 icon: flat-color-icons:about
 category:
   - 联合黑名单
   - 其他
+editLink: false
+contributors: false
 
 ---
 
+::: important 
+
+在单人游戏开作弊模式NBCS
+
+在多人游戏开作弊功能罪该万死
+
+:::
+
+<!-- 难道有谁配让我上盘灵黑名单? 我是不想玩盘灵了。By:******* -->
+
 ::: info 提示
 
-你可以在此查看可[复制的黑名单列表](./banlist)
+你可以在此查看可[复制的黑名单列表](https://servers.panling.link/other/blacklist/banlist)
 
 如需申诉请联系给予你处罚的管理员
 
+目前仅展示被**永久封禁**的玩家名单
+
 :::
+
+<!-- 难道有谁配让我上盘灵黑名单? 我是不想玩盘灵了。By:******* -->
 
 ------
 
@@ -930,13 +946,24 @@ category:
 
 :::
 
+::: caution Drumm
+
+玩家UUID: adeca1e0-740f-492e-ad86-229dcebb93b7
+
+处罚理由:盗窃
+
+处罚时间:2024.02.14
+
+给予此处罚的服务器:烂柯山重启计划
+
+执行管理员ID:Len困
+
+:::
+
 ------
 
-## 临时封禁
+::: tip 
 
+你可以在下面的评论区里挂人，但请勿发布个人隐私信息与辱骂他人的内容。
 
-
-------
-
-## 警告
-
+:::

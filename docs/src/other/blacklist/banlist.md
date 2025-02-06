@@ -1,5 +1,5 @@
 ---
-title: 服务器联合黑名单
+title: 可复制的黑名单
 index: true
 icon: flat-color-icons:about
 category:
