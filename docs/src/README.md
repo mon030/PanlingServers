@@ -48,7 +48,7 @@ features:
 
   - title: 月华
     icon: solar:server-bold-duotone
-    details: 除剧情外所有内容皆DLC，新的技能，装备，玩法，副本
+    details: 除剧情外所有内容皆DLC，崭新且多样的技能，装备，玩法，怪物，试炼，副本，与完善易用的基础设施。
     link: /yuehua/
 
   - title: 服务器联合黑名单
