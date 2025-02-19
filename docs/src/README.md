@@ -9,6 +9,8 @@ actions:
   - text: 服务器入驻
     link: other/join
     type: primary
+  - text: 服务器状态查询
+    link: other/online
 features:
 
   - title: 盘龙阁-盘灵古域
