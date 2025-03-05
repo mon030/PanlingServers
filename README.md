@@ -4,7 +4,7 @@ Minecraft RPG地图盘灵古域的服务器列表。
 
 ## 服务器入驻申请表单
 
-[请填写此表单](https://forms.office.com/r/0TQyWghwpJ)
+[请填写此表单](https://tally.so/r/woKKWX)
 
 ## 📖 部署指南 Deployment
 
