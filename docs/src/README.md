@@ -10,7 +10,7 @@ actions:
     link: other/join
     type: primary
   - text: 服务器状态查询
-    link: other/online
+    link: "https://up.panling.link/"
 features:
 
   - title: 盘龙阁-盘灵古域
