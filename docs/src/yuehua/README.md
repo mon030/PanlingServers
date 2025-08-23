@@ -12,7 +12,7 @@ actions:
     type: normal
 
   - text: 加入QQ群
-    link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ky91JDItyP8Usim8cEoEi6h6TxGGcdVj&authKey=3chagmHXfQxpX25WYGvwE85aPEU3qH4fvZmOWv9Xc43MEk38a0HBtN0QDY0Tbnrd&noverify=0&group_code=965424325"
+    link: "https://qm.qq.com/q/7FNKk5xXva"
     type: primary
 features:
   - title: 服务器攻略
@@ -52,4 +52,4 @@ footer: <p xmlns:cc="http://creativecommons.org/ns#" >We are licensed under <a h
 
 - 便捷贴心的基础设施让您游戏无忧！打开月华菜单，您就能轻松使用各种实用功能：18个大箱子容量的随身乾坤盒、便于与好友分享物品的混元袋、方便玩家交易的月华市场。在GUI界面中，您可以一键存储物品，使用元素银行、金钱银行与箭袋，还能直观地查看锻造与丹药配方所需材料、产出物及其效果。此外，菜单中还提供了数据查询、物品展示、转生、重华晶等丰富功能，让您的游戏体验丝般顺滑。
 
-欢迎您加入月华的世界！我们的QQ群号：965424325，期待与您相遇！愿您在这里收获快乐，结识志同道合的伙伴，共同谱写属于您的盘灵传说！
+欢迎您加入月华的世界！我们的QQ群号：299803380，期待与您相遇！愿您在这里收获快乐，结识志同道合的伙伴，共同谱写属于您的盘灵传说！
