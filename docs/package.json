@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@docsearch/js": "^3.8.3",
-    "@vuepress/bundler-vite": "2.0.0-rc.19",
+    "@vuepress/bundler-vite": "2.0.0-rc.28",
     "@vuepress/plugin-docsearch": "2.0.0-rc.74",
     "@waline/client": "^3.5.1",
     "chart.js": "^4.4.7",
