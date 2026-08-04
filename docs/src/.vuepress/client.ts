@@ -5,9 +5,13 @@ export default defineClientConfig({
     if (typeof window !== "undefined") {
       const shuffleFeatures = () => {
         const container = document.querySelector(".vp-features");
-        if (!container) return;
+        if (!container) return false;
+
+        if (container.getAttribute("data-shuffled") === "true") return true;
 
         const children = Array.from(container.children) as HTMLElement[];
+        if (children.length <= 1) return false;
+
         const serverCards: HTMLElement[] = [];
         const fixedCards: HTMLElement[] = [];
 
@@ -21,7 +25,6 @@ export default defineClientConfig({
         });
 
         if (serverCards.length > 1) {
-          // Fisher-Yates Shuffle
           for (let i = serverCards.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
             const temp = serverCards[i];
@@ -31,15 +34,14 @@ export default defineClientConfig({
 
           serverCards.forEach((card) => container.appendChild(card));
           fixedCards.forEach((card) => container.appendChild(card));
+          container.setAttribute("data-shuffled", "true");
+          return true;
         }
+        return false;
       };
 
       const tryShuffle = () => {
-        const container = document.querySelector(".vp-features");
-        if (container && container.getAttribute("data-shuffled") !== "true") {
-          container.setAttribute("data-shuffled", "true");
-          shuffleFeatures();
-        }
+        shuffleFeatures();
       };
 
       if (document.readyState === "loading") {
