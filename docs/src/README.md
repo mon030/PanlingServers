@@ -53,6 +53,11 @@ features:
     details: 除剧情外所有内容皆DLC，崭新且多样的技能，装备，玩法，怪物，试炼，副本，与完善易用的基础设施。
     link: /yuehua/
 
+  - title: 画江湖·破晓
+    icon: solar:server-bold-duotone
+    details: 原创全插件化盘灵，适合新老玩家。
+    link: /hjh/
+
   - title: 服务器联合黑名单
     icon: solar:user-block-bold-duotone
     details: 我们联合!
