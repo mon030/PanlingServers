@@ -6,6 +6,9 @@ heroImage: /logo.svg
 heroText: 画江湖·破晓
 tagline: 原创全插件化盘灵，适合新老玩家
 actions:
+  - text: 🔗hjh.panling.link
+    link: "/hjh/info"
+    type: primary
   - text: 🔗9666.fun:35175
     link: "/hjh/info"
     type: normal
@@ -97,6 +100,20 @@ footer: <p xmlns:cc="http://creativecommons.org/ns#" >We are licensed under <a h
 如果你对项目有任何建议，或想了解最新进度，欢迎前往贴吧原帖留言，也可以关注我的 B站动态，后续会同步更新开发日志和实机演示。
 
 **你的每一次互动，都是我们坚持下去的动力。**
+
+---
+
+## 游戏截图
+
+![游戏截图](https://i.111666.best/image/dYDNF5r5kPEWDXzC7oZvYu.jpg)
+
+![游戏截图](https://i.111666.best/image/TFY78ebI2lrXs0W3OtOe8V.jpg)
+
+![游戏截图](https://i.111666.best/image/OsGVR02Im97mHnDTSseMWU.jpg)
+
+![游戏截图](https://i.111666.best/image/R3UtA1TBqDz9AoBh6pW3k0.jpg)
+
+![游戏截图](https://i.111666.best/image/piLiTLv9ESPKjQM7UgQnLJ.jpg)
 
 ---
 

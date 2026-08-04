@@ -12,7 +12,7 @@ category:
 
 服务器目前状态: 正常运营
 
-IP/域名: `9666.fun:35175`
+IP/域名: `9666.fun:35175` / `hjh.panling.link`
 
 服务器社群: [点击加入QQ群](https://qm.qq.com/q/IQwy47vkC4)
 
