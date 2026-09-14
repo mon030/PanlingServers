@@ -58,6 +58,11 @@ features:
     details: 原创全插件化盘灵，适合新老玩家。
     link: /hjh/
 
+  - title: 盘灵怀古
+    icon: solar:server-bold-duotone
+    details: 欢迎来回味属于以前的时光。
+    link: /plegacy/
+
   - title: 服务器联合黑名单
     icon: solar:user-block-bold-duotone
     details: 我们联合!
