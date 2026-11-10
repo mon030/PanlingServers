@@ -74,7 +74,6 @@ export default hopeTheme({
     tasklist: true,
     vPre: true,
     chartjs: true,
-    echarts: true,
   },
 
   // 在这里配置主题提供的插件
@@ -92,7 +91,7 @@ export default hopeTheme({
     },
 
     components: {
-      components: ["Badge", "VPBanner", "BiliBili", "VidStack", "VPCard"],
+      components: ["Badge", "VPBanner", "BiliBili", "VPCard"],
     },
 
     copyright: {

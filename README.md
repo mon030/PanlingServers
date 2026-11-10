@@ -10,8 +10,11 @@ Minecraft RPG地图盘灵古域的服务器列表。
 
 ### Project setup
 
+Requires Node.js 22.18.0 or later and pnpm.
+
 ```
-pnpm install
+cd docs
+pnpm install --frozen-lockfile
 ```
 
 ### Compiles and hot-reloads for development
